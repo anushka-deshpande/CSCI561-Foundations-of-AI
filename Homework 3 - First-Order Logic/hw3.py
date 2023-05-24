@@ -1,3 +1,5 @@
+# CSCI 561 - Homework 3 - FOL
+
 from collections import defaultdict
 from collections.abc import Sequence
 from copy import deepcopy
