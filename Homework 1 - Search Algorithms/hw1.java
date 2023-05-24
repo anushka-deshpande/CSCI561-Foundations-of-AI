@@ -1,3 +1,8 @@
+/*
+CSCI-561 Assignment 1 - Search Algorithms
+*/
+
+
 import java.io.*;
 import java.util.*;
 
