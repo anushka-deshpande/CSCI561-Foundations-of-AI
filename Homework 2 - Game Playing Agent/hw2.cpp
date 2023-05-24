@@ -1,3 +1,7 @@
+/*
+CSCI 561 - Homework 2 - Game Playing Agent
+*/
+
 #include<iostream>
 #include<fstream>
 #include<string>
