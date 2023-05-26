@@ -19,7 +19,7 @@ This code won 20/20 games.
 The full problem statement can be found [here](./Homework%202%20-%20Game%20Playing%20Agent/hw2-csci561-sp23.pdf).
 
 ### Homework 3
-In homework 3, we implemented firs-order logic resolution. The program was to take multiple sentences in a KB as input, and the objective was to conclude if a query asked was entailed from the KB or not. 
+In homework 3, we implemented first-order logic resolution. The program was to take multiple sentences in a KB as input, and the objective was to conclude if a query asked was entailed from the KB or not. 
 
 This was implemented in Python, and passed 47/50 testcases. 
 
